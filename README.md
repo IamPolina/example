@@ -1,4 +1,4 @@
 # example
 ## hello github
 
-My first repository
+My first repository.
